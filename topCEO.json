@@ -7,69 +7,69 @@
       {
         "no": "1",
         "name": "Sundar Pichai",
-        "net worth": "Approx. $600 million",
+        "networth": "Approx. $600 million",
         "company": "Google"
       },
       {
         "no": "2",
         "name":"Elon Musk",
-        "net worth":"Approx. $23.6 million"
+        "networth":"Approx. $23.6 million"
         "company":"Tesla & SpaceX"
       },
 
       {
         "no": "3",
         "name":"Satya Nadella",
-        "net worth":"Approx. $1 billion"
+        "networth":"Approx. $1 billion"
         "company":"Microsoft"
       },
 
       {
         "no": "4",
         "name":"Jeff Bezos",
-        "net worth":"Approx. $111.4 billion"
+        "networth":"Approx. $111.4 billion"
         "company":"Amazon"
       },
 
       {
         "no": "5",
         "name":"Bill Gates",
-        "net worth":"Approx. $100 billion"
+        "networth":"Approx. $100 billion"
         "company":"Microsoft"
       },
 
       {
         "no": "6",
         "name":"Daniel Zhang",
-        "net worth": NULL
+        "networth": NULL
         "company":"Alibaba"
       },
 
       {
         "no": "7",
         "name":"Mark Zuckberg",
-        "net worth":"Approx. $60 million"
+        "networth":"Approx. $60 million"
         "company":"Facebook"
       },
 
       {
         "no": "8",
         "name":"Lakshmi Mittal",
-        "net worth":"Approx. $11 million"
+        "networth":"Approx. $11 million"
         "company":"ArcelorMittal"
       },
 
       {
         "no": "9",
         "name":"Indra Nooyi",
-        "net worth":"Approx. $80 million"
+        "networth":"Approx. $80 million"
         "company":"PepsiCo"
       },
 
       {
         "no": "10",
         "name":"Warren Buffett",
-        "net worth":"Approx. $83 million"
+        "networth":"Approx. $83 million"
         "company":"Berkshire Hathaway"
       }
       ]
