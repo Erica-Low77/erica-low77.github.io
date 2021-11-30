@@ -1,0 +1,41 @@
+{
+  "flowerName" : "Flower Blossom",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Rose",
+      "scientific" : "Rosa",
+      "symbolism" : "Love",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Daisy",
+      "scientific" : "Bellis perennis",
+      "symbolism" : "Purity",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "African Violet",
+      "scientific" : "Saintpaulia",
+      "symbolism" : "Faithfulness",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
