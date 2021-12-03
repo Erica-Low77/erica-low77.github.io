@@ -1,40 +1,38 @@
 {
   "flowerName" : "Flower Blossom",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "homeTown" : "Ontario",
+  "season" : "Summer",
+  "details" : "Plant Details",
   "active" : true,
   "members" : [
     {
-      "name" : "Rose",
-      "scientific" : "Rosa",
-      "symbolism" : "Love",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "name" : "African Marigold",
+      "color" : "Orange and Yellow",
+      "plantLight" : "Sun to part shade" ,
+      "features" : [
+        "Large blooms",
+        "Broad leaf",
+        "Trailing companion plants"
       ]
     },
     {
-      "name" : "Daisy",
-      "scientific" : "Bellis perennis",
-      "symbolism" : "Purity",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name" : "Hibiscus",
+      "color" : "Red and Orange",
+      "plantLight" : "Bright Light",
+      "features" : [
+        "Glossy foliage",
+        "Brightening a sunny corner",
+        "Tropical feeling"
       ]
     },
     {
-      "name" : "African Violet",
-      "scientific" : "Saintpaulia",
-      "symbolism" : "Faithfulness",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name" : "Chrysanthemum",
+      "color" : "Yellow and Pink",
+      "plantLight" : "Bright Light",
+      "features" : [
+        "Easy plant to care",
+        "lush and compact plant",
+        "long-lasting blooms"
       ]
     }
   ]
